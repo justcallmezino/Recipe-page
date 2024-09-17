@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/Recipe-page-EBQqVQwlyW)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/recipe-page-xTxhrL9831)
 - Live Site URL: [GitHub Pages Live URL](https://justcallmezino.github.io/Recipe-page/)
 
 ## My process
